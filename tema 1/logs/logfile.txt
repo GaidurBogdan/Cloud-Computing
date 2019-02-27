@@ -1,0 +1,75 @@
+
+
+Country API Request:
+
+{'Accept': 'application/hal+json,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8', 'Accept-charset': 'ISO-8859-1,utf-8;q=0.7,*;q=0.3', 'User-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11', 'Accept-encoding': 'none', 'Accept-language': 'en-US,en;q=0.8', 'Connection': 'keep-alive'}
+None
+
+Country API Response:
+
+Date: Wed, 27 Feb 2019 15:47:58 GMT
+Content-Type: application/json;charset=utf-8
+Content-Length: 2094
+Connection: close
+Set-Cookie: __cfduid=d57ba80c5c6cecc11e72166ac8f7fdd801551282477; expires=Thu, 27-Feb-20 15:47:57 GMT; path=/; domain=.restcountries.eu; HttpOnly
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET
+Access-Control-Allow-Headers: Accept, X-Requested-With
+Cache-Control: public, max-age=86400
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+CF-RAY: 4afbcafebb66294a-OTP
+
+
+
+
+Random API Request:
+
+{'Accept': 'application/hal+json,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8', 'Accept-charset': 'ISO-8859-1,utf-8;q=0.7,*;q=0.3', 'User-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11', 'Accept-encoding': 'none', 'Accept-language': 'en-US,en;q=0.8', 'Connection': 'keep-alive'}
+None
+
+Random API Response:
+
+Date: Wed, 27 Feb 2019 15:47:58 GMT
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 2
+Connection: close
+Set-Cookie: __cfduid=d0441f4cf375c92bed3191d1920189f8e1551282478; expires=Thu, 27-Feb-20 15:47:58 GMT; path=/; domain=.random.org; HttpOnly
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+RDO-Authenticated-Login: -
+X-Content-Type-Options: nosniff
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Headers: Origin, X-Requested-With, Content-Type, Accept
+Set-Cookie: RDOSESSION=q1adurfogj3nitdt41814v3107; path=/; domain=.random.org; secure
+Set-Cookie: __cflb=769728044; path=/; expires=Thu, 28-Feb-19 14:47:58 GMT; HttpOnly
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+CF-RAY: 4afbcb026f24ad20-OTP
+
+
+2
+
+Music API Request:
+
+{'Accept': 'application/hal+json,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8', 'Accept-charset': 'ISO-8859-1,utf-8;q=0.7,*;q=0.3', 'User-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11', 'Accept-encoding': 'none', 'Accept-language': 'en-US,en;q=0.8', 'Connection': 'keep-alive'}
+None
+
+Music API Response:
+
+Server: nginx
+Date: Wed, 27 Feb 2019 15:47:59 GMT
+Content-Type: text/plain; charset=utf-8
+Transfer-Encoding: chunked
+Connection: close
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+X-Varnish: 3220037538 3220037063
+Age: 6
+Via: 1.1 varnish
+X-restarts: 0
+x-varnish-instance: api
+
+

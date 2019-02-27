@@ -1,0 +1,12 @@
+.form__container {
+    position: relative;
+    display: flex;
+    align-items: center;    
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 80vh;
+    width: 200px;
+    margin: auto;
+}
